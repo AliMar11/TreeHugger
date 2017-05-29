@@ -1,0 +1,35 @@
+body {
+ /*background-color: #26f176;*/
+ background-image:url("https://img.clipartfest.com/1768d93a3716dedba9ddc1736179e340_clipart-grass-png-clipartfest-grass-background-clipart-png-clipart-grass-png_2188-606.png");
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-position:30% -20px;
+  font-family: sans-serif;
+  background-color: white;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+#container {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  height: auto;
+  margin: 0;
+  padding: 0 0 0 20px;
+}
+
+li {
+  height: 200px;
+}
+
+img{
+  display: inline;
+  float: left;
+  margin-bottom: 1em;
+}
